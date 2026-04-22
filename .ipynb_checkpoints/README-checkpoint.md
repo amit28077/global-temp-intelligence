@@ -171,11 +171,10 @@ streamlit run src/app.py
 
 ## 👤 About
 
-**[Your Name]** | Data Science Enthusiast | Python · ML · Climate Tech
+**Amit More** | Data Science Enthusiast | Python · ML · Climate Tech
 
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+📧 moreamit7887@gmail.com  
+
 
 ---
 
