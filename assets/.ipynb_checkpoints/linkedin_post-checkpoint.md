@@ -1,4 +1,4 @@
-# LinkedIn Post — Copy and Post This
+# LinkedIn Post
 
 ---
 
