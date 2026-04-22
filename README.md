@@ -277,10 +277,8 @@ Engineering:
 **Amit Vilas More**
 B.Tech in AI and Data Science | Sharad Institute of Technology, Kolhapur | Pune
 
-📧 moreamit7887@gmail.com · 📱 +91 7887962012
+📧 moreamit7887@gmail.com · 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
